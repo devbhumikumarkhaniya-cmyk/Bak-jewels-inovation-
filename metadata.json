@@ -1,0 +1,6 @@
+{
+  "name": "BAK Jewels - Luxury Fine Jewellery",
+  "description": "An exquisite luxury jewelry e-commerce destination featuring certified diamond collections, bespoke bridal jewellery, heirloom gold pieces, and handcrafted luxury ornaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
